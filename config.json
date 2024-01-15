@@ -1,0 +1,20 @@
+{
+    "I2C_Rate": 0.010,
+    "C2I_Rate": 81.98,
+    "LTC": "LLwuQBcq7rciXVkVUHGKF6mr47YUeVHcUm",
+    "BTC": "-------",
+    "ETH": "-------",
+    "UPI": "aniketexe@fam",
+    "UPI_QR": "[UPI QR](https://cdn.discordapp.com/attachments/1148638403546578984/1163827955793924096/WhatsApp_Image_2023-10-17_at_18.45.39_319fd2f6.jpg?ex=6540fe3f&is=652e893f&hm=deb725272df39e082658e2e401a21e1f9202f44afd2b15d8af5aa22578781e1e&)!",
+    "BTC_QR": "------",
+    "LTC_QR": "[LTC QR](https://cdn.discordapp.com/attachments/1148638403546578984/1163826309508628510/image.png?ex=6540fcb7&is=652e87b7&hm=bad6c4deaf2a100a65701e7f25ecbd5cd45597cf817b21e4e83c6df80ac65d2d&)!",
+    "ETH_QR": "-------",
+    "PayPal": "-------",
+    "Twitch_URL": "https://twitch.tv/wallibear",
+    "Auto_Response": "JAAN KAAM KAR RA",
+    "SERVER_LINK": "https://discord.gg/KVcxQEedSD",
+    "CATEGORY_RESPOND_MSG": "WORKSPACE... TESTING `ANIKET OP`",
+    "category_ids": [1146086092878139401],
+    "server_ids": [1146086086121111603],
+    "Token": "MTE5NjIwOTUyODc0ODkxMjc5Mg.GqF14H.yfuWvPKwRPVw15enMgbaIgTnsb0h__6i91I_x0"
+}
